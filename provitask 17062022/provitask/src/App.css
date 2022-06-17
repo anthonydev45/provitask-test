@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.nav-icon{
+  width: 10%;
+}
+
+.flex-style{
+  display: flex;
+  width: 90%;
+}
+.nav-left{
+  justify-content: left;
+  display: flex;
+  width: 45%;
+}
+.nav-right{
+  justify-content: right;
+  display: flex;
+  width: 45%;
+}
